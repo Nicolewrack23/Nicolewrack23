@@ -1,11 +1,5 @@
-<h1>Hi 👋, I'm Nicole Wrack</h1>
-<h3>A passionate Software Developer from New Zealand</h3>
-
-- 🔭 I’m currently working on a [React Native Netball app for coaches](https://github.com/Nicolewrack23/Netball-Native-app)
-
-- 🌱 I’m currently learning **Software Development at Developers institute**
-
-- 📫 How to reach me **nicolewrack23@gmail.com**
+<h1>Hi 👋, I'm Nicole </h1>
+<h3>Software Engineer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
